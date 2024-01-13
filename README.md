@@ -1,4 +1,4 @@
-# Hii there 👋,I'm Digvijay Mane a Web Developer and a Competitive Programmer
+# Hii there 👋,I'm Digvijay Mane a Data Analyst and a Machine Learning Enthusiast
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="680" />
 <p align="center">
