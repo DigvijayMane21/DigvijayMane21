@@ -18,33 +18,18 @@
 <tr>
 <td>Development</td>
 <td> <a href="https://github.com/DigvijayMane21" >
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,pug,handlebars" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,handlebars" />
   </a>
 </td>
 </tr>
 
 <tr>
-<td>CSS Framework</td>
+<td>Framework</td>
 <td> <a href="https://github.com/DigvijayMane21" >
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
-    <img height="50rem" src=chakra.jpg/>
-    <img height="50rem" src=daisy.png/>
+    <img src="https://skillicons.dev/icons?i=flask" />
+    <img height="50rem" src=Streamlit.png/>
   </a>
  </td>
-</tr>
-<tr>
-<td>Frontend Framework</td>
-<td> <a href="https://github.com/DigvijayMane21" >
-    <img src="https://skillicons.dev/icons?i=react,vite,next" />
-  </a>
- </td>
-</tr>
-
-<tr>
-<td>Backend Framework</td>
-<td> <a href="https://github.com/DigvijayMane21" >
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
-</td>
 </tr>
 
 <td>Database</td>
@@ -55,26 +40,18 @@
 </tr>
 
 
-
-<tr>
-<td>Gaming</td>
-<td> <a href="https://github.com/DigvijayMane21" >
-    <img src="https://skillicons.dev/icons?i=unity,blender" />
-  </a>
- </td>
-</tr>
-
 <tr>
 <td>Hosting</td>
 <td> <a href="https://github.com/DigvijayMane21" >
-    <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws" />
+    <img src="https://skillicons.dev/icons?i=github,aws" />
   </a>
 </td>
 </tr>
+
 <tr>
 <td>Tools</td>
 <td> <a href="https://github.com/DigvijayMane21" >
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,replit,stackoverflow" />
   </a>
 </td>
 </tr>
